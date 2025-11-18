@@ -16,7 +16,7 @@ There is an equation in a string form: `a + b = c`. But, there is a reversed num
 - No solution, if all numbers are not suitable
 
 ### Example
-`12 + 34 = 64` -> **c,46**
-`16 + 23 = 93` -> **c,39**
-`15 + 51 = 66` -> **correct**
+`12 + 34 = 64` -> **c,46**\
+`16 + 23 = 93` -> **c,39**\
+`15 + 51 = 66` -> **correct**\
 `21 + 34 = 55` -> **correct**
